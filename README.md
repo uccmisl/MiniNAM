@@ -123,7 +123,7 @@ then MiniNAM should work fine too. To install Mininet, you can go through a very
 
 You can find a tutorial to set up and use MiniNAM at:
 
-<https://www.ucc.ie/en/misl/research/software/mininam/> 
+<http://www.cs.ucc.ie/misl/research/software/mininam/> 
 
 The tutorial also includes three distinct network examples that use MiniNAM to create a
 network and display traffic flows. These examples are a good starting point to learn how to
