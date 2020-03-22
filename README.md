@@ -115,6 +115,10 @@ sure to have X forwarding enabled. Also make sure to have Tkinter imaging instal
 
 `sudo apt-get install python-imaging`
 
+Depending on your version of linux, you may need to install Tkinter using this call instead:
+
+`sudo apt-get install python-imaging-tk`
+
 MiniNAM has no additional dependencies and if you have Mininet installed in your machine
 then MiniNAM should work fine too. To install Mininet, you can go through a very helpful
 [getting started documentation](http://mininet.org/download/) provided by Mininet.
