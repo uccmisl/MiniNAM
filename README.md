@@ -36,6 +36,8 @@ There are three ways to start MiniNAM:
 
   In addition to custom instances that Mininet takes, MiniNAM can also take a network
   instance. The network instance in custom script must be named net (upper or lower case)
+  
+  `sudo python MiniNAM.py --custom net`
  
 *  Import MiniNAM in your code and create an instance. The *init* function of MiniNAM takes
    the following arguments:
