@@ -31,7 +31,7 @@ There are three ways to start MiniNAM:
 
 * Start MiniNAM from CLI and pass custom files. E.g.
 
-  `sudo python MiniNAM.py --custom <custom_file_name> --net net`
+  `sudo python MiniNAM.py --custom <custom_file_name>`
   `sudo python MiniNAM.py --custom <custom_file_name> --topo <topo_name>`
 
   In addition to custom instances that Mininet takes, MiniNAM can also take a network
